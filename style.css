@@ -1,8 +1,12 @@
 .jumbotron {
-  padding-top: 3rem;
+  padding-top: 6rem;
   background-color: #dad7d8;
 }
 
 #Projects {
   background-color: #dad7d8;
+}
+
+section {
+  padding-top: 5rem;
 }
